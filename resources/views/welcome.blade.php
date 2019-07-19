@@ -240,7 +240,7 @@
                                         <div class="col-md-12 col-sm-12">
                                             <button type="submit" id="submit" name="submit" class="btn btn-reservation">
                                                 <span><i class="fa fa-check-circle-o"></i></span>
-                                                Make a reservation
+                                                Make a reservation here
                                             </button>
                                         </div>
                                             
