@@ -12,6 +12,6 @@
            @if(session('successMsg'))
              <div class="alert alert-success">
                 <button type="button" arial-hidden="true" class='close' 
-                onclick="this.parentElement.style.display='none'">x </button> <span>{{ session('successMsg')}}</span>
+                onclick="this.parentElement.style.display='none'"> x </button> <span>{{ session('successMsg')}}</span>
               </div>       
         @endif                   
