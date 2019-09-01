@@ -43,7 +43,20 @@
                       <a href="{{route('welcome')}}" class="btn btn-danger">Back</a>
                       
                    
+                   
                     </form>
+
+                    <div class="row pull-right">
+                      
+                        <div class="form-group">
+                          <label class="bmd-label-floating">email</label>
+                          <h4>mh@gmail.com</h4>
+                          <label class="bmd-label-floating">password</label>
+                          <h4>123456</h4>
+                          </div>
+                    </div>
+
+
                   </div>
                 </div>
               </div>
